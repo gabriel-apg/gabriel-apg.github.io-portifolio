@@ -109,6 +109,19 @@
   top: -4px;
 }
 
+.cursos a {
+  color: white; /* cor branca */
+  text-decoration: none; /* opcional: remove sublinhado */
+}
+
+.cursos a:hover {
+  color: #ccc; /* muda para cinza claro ao passar o mouse */
+}
+
+.cursos h3::before {
+  background: url("../img/cursos.svg") no-repeat center center;
+}
+
 .cursos h3::before {
   background: url("../img/cursos.svg") no-repeat center center;
 }
