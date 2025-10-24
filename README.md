@@ -33,4 +33,4 @@ Usei tecnologias modernas para deixá-lo leve, bonito e responsivo.
 
 ## 🧭 Como Executar 
 
-1. https://gabriel-apg.github.io/gabriel-apg.github.io-portifolio
+https://gabriel-apg.github.io/Portifolio
